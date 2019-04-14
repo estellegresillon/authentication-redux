@@ -10,7 +10,7 @@ http://console.developers.google.com
 
 Add Google script in HTML <head>
 ```
-<script src=« https://apis.google.com/js/api.js »></script>
+<script src="https://apis.google.com/js/api.js"></script>
 ```
 Check if the script works by typing gapi in console
 
