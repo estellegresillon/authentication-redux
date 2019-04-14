@@ -1,4 +1,4 @@
-### Authent with 0Auth
+### Authentication with 0Auth
 
 Doc: 
 https://developers.google.com/api-client-library/
